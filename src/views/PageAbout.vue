@@ -11,7 +11,7 @@ import AboutA from "@/components/about/AboutA.vue";
 import AboutB from "@/components/about/AboutB";
 export default {
   name: "PageAbout",
-  components:{AboutA, AboutB}
+  components:{ AboutA, AboutB}
 }
 </script>
 
